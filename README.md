@@ -1,4 +1,4 @@
-# 👋 Ahoj, já jsem @MateexCZ!
+# 👋 Ahoj, já jsem @Matyx!
 Moje jméno je Mateex a tohle je můj github
 
 - 👀 umím trochu **js, python a nějaký další jazyky**
