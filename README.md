@@ -3,7 +3,7 @@ Moje jméno je matejmatyxmsengalsky a tohle je můj github
 
 - 👀 umím trochu **nic**
 - 🌱 Nejvíc umím **nic** (taky)
-- 🎈 Programuji **hovna** a další věcičky
+- 🎈 Programuji a další věcičky
 - ⚔️ https://discord.gg/8KYyy4ut37 Připoj Se!
 
 <!---
