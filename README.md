@@ -1,9 +1,9 @@
 # 👋 Ahoj, já jsem @Matyx!
-Moje jméno je Mateex a tohle je můj github
+Moje jméno je matejmatyxmsengalsky a tohle je můj github
 
-- 👀 umím trochu **js, python a nějaký další jazyky**
-- 🌱 Nejvíc umím **js** (javascript)
-- 🎈 Programuji **discord boty** a další věcičky
+- 👀 umím trochu **nic**
+- 🌱 Nejvíc umím **nic** (taky)
+- 🎈 Programuji **hovna** a další věcičky
 - ⚔️ https://discord.gg/8KYyy4ut37 Připoj Se!
 
 <!---
